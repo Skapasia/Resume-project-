@@ -1,3 +1,3 @@
 # Resume-project-
 
-hello world 
+Resume Responsive website using html and CSS
